@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">AppEnviar</string>
     <string name="botao">enviar</string>
-    <string name="titulo">escreva uma mensagem</string>
-    <string name="foto">selecione uma foto</string>
-    <string name="envia">envie sua mensagem</string>
+    <string name="titulo">Escreva uma mensagem</string>
+    <string name="foto">Selecione uma foto</string>
+    <string name="envia">Envie sua mensagem</string>
 </resources>
