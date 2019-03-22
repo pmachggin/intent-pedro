@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
             intent.type = "image/*"
             startActivityForResult(intent, 125)
 
+            
         }
 
     }
