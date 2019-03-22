@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppEnviar</string>
+    <string name="botao">enviar</string>
+    <string name="titulo">escreva uma mensagem</string>
+    <string name="foto">selecione uma foto</string>
+    <string name="envia">envie sua mensagem</string>
+</resources>

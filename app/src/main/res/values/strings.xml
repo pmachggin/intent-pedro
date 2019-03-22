@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppEnviar</string>
+    <string name="botao">send</string>
+    <string name="titulo">write a mensage</string>
+    <string name="foto">select a photo</string>
+    <string name="envia">send your mensage</string>
+</resources>
